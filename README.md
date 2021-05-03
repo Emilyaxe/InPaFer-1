@@ -7,7 +7,7 @@
 * V.Structure of the project
 
 ## I. Introduction
-This repository has two branch: *master* branch showing the implementaion of Eclipse plugin and *experiment* branch showing the evaluation of simulated experiment.
+This repository has two branch: `*master* branch` showing the implementaion of Eclipse plugin and `*experiment* branch` showing the evaluation of simulated experiment.
 
 *InPaFer* is an interactive patch filtering approach to provide tool support for patch review and debugging. We implemented our approach as an Eclipse plugin project, which includes a user interface to allow the developer to easily browse the patches and the questions, as well as a diff view to visualize the effect of a patch on a test execution.
 The following figure is the screenshot of our approach.
